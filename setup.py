@@ -47,3 +47,5 @@ setup(
     ],
     python_requires='>=3.5',
 )
+
+print("zx and aw zzy")
